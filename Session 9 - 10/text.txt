@@ -1,0 +1,4 @@
+This is my text file
+I can write on multiple lines
+
+I can even have an empty lines

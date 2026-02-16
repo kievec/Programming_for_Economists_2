@@ -1,0 +1,10 @@
+type(2)
+type(2.3)
+type(False)
+type(None)
+type(4*2)
+type(4/2)
+type(3.0*1.0)
+type(~3)
+
+type(print("xx"))
